@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="training_courses" table="x_422882_sample_employees_table" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_courses</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CAD</label>
+            <language>en</language>
+            <name>x_422882_sample_employees_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 15:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a05ba16fdb230010640858b3ca9619dc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 15:25:50</sys_updated_on>
+            <value>cad</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_courses</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSA</label>
+            <language>en</language>
+            <name>x_422882_sample_employees_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 15:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac5ba16fdb230010640858b3ca9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 15:25:50</sys_updated_on>
+            <value>csa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_courses</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSM</label>
+            <language>en</language>
+            <name>x_422882_sample_employees_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 15:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>285ba16fdb230010640858b3ca9619e2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 15:25:50</sys_updated_on>
+            <value>csm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_courses</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Discovery</label>
+            <language>en</language>
+            <name>x_422882_sample_employees_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 15:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a85ba16fdb230010640858b3ca9619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 15:25:50</sys_updated_on>
+            <value>discovery</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_courses</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GRC</label>
+            <language>en</language>
+            <name>x_422882_sample_employees_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 15:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c5ba16fdb230010640858b3ca9619e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 15:25:50</sys_updated_on>
+            <value>grc</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_courses</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR</label>
+            <language>en</language>
+            <name>x_422882_sample_employees_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 15:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a45ba16fdb230010640858b3ca9619e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 15:25:50</sys_updated_on>
+            <value>hr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_courses</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ITSM</label>
+            <language>en</language>
+            <name>x_422882_sample_employees_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 15:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>245ba16fdb230010640858b3ca9619de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 15:25:50</sys_updated_on>
+            <value>itsm</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>training_courses</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Others</label>
+            <language>en</language>
+            <name>x_422882_sample_employees_table</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 15:25:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac5ba16fdb230010640858b3ca9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 15:25:50</sys_updated_on>
+            <value>others</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>training_courses</element>
+            <name>x_422882_sample_employees_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-20 15:25:50</sys_created_on>
+            <sys_id>2c5ba16fdb230010640858b3ca9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>training_courses</sys_name>
+            <sys_package display_value="Sample" source="x_422882_sample">6b68e1abdb230010640858b3ca9619fe</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Sample">6b68e1abdb230010640858b3ca9619fe</sys_scope>
+            <sys_update_name>sys_choice_x_422882_sample_employees_table_training_courses</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-20 15:25:50</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

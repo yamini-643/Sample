@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Employees Table" max_length="40" name="x_422882_sample_employees_table" type="collection">
+        <element label="Employee ID" max_length="40" name="employee_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="First Name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Joining Date" max_length="40" name="joining_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element attributes="encode_utf8=false" label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="encode_utf8=false" label="Manager" max_length="32" name="manager" reference="sys_user" type="reference"/>
+        <element label="New Employee" max_length="40" name="new_employee" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Training Courses" max_length="40" name="training_courses" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="CAD" value="cad"/>
+                <element inactive_on_update="false" label="CSA" value="csa"/>
+                <element inactive_on_update="false" label="CSM" value="csm"/>
+                <element inactive_on_update="false" label="Discovery" value="discovery"/>
+                <element inactive_on_update="false" label="GRC" value="grc"/>
+                <element inactive_on_update="false" label="HR" value="hr"/>
+                <element inactive_on_update="false" label="ITSM" value="itsm"/>
+                <element inactive_on_update="false" label="Others" value="others"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="User ID" max_length="40" name="user_id" type="string"/>
+        <index name="index">
+            <element name="manager"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+        <index name="index3">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
